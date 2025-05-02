@@ -7,7 +7,7 @@ import {AiOutlineGithub } from "react-icons/ai";
 import {ImLinkedin} from "react-icons/im";
 import {AiOutlineInstagram} from "react-icons/ai";
 import {BiLinkAlt} from "react-icons/bi";
-import {aarti} from "../assets";
+import {yash} from "../assets";
 import "./Hero.scss";
 
 const Hero = () => {
@@ -56,7 +56,7 @@ const Hero = () => {
       </div>
       </div>
       <div className="imgcontainer1 absolute violet-gradient">
-        <img src={aarti} alt="" className="object-contain"/>
+        <img src={yash} alt="" className="object-contain"/>
       </div>
       </div>
 

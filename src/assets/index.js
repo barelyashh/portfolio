@@ -1,5 +1,5 @@
 import logo from "./arr.png";
-import aarti from "./photo2.jpg";
+import yash from "./photo2.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -71,7 +71,7 @@ export {
   clg,
   school,
   crypto,
-  aarti,
+  yash,
   oop,crud,dwld,onetomany,yml,
   trie,ds,cg,
   port_3d, jsp, chitchat, notes, react1,

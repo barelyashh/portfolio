@@ -6,33 +6,6 @@ import {
   
   } from "../assets";
 
-  const profiles = [
-    {
-      link: "https://auth.geeksforgeeks.org/user/aarti_rathi",
-      icon: "https://img.icons8.com/color/344/GeeksforGeeks.png",
-    },
-    {
-      link: "https://www.coursera.org/account/accomplishments/specialization/7V2SFZ9YWWRL",
-      icon: "https://img.icons8.com/fluency/344/google-cloud.png",
-    },
-    {
-      link: "https://www.qwiklabs.com/public_profiles/48dcd029-03b4-437b-9dd3-ef7d65958eb0",
-      icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-qwiklabs-provides-real-cloud-environments-that-help-developers-logo-color-tal-revivo.png",
-    },
-    {
-      link: "https://www.hackerrank.com/_shinchancode",
-      icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png",
-    },
-    {
-      link:"https://dev.to/shinchancode",
-      icon: hf,
-    },
-    {
-      link:"https://www.holopin.io/@shinchancode#badges",
-      icon: holopin,
-    },
-  ];
-
   const achievements = [
     {
       title: "Upgraded legacy JavaScript code to modern ES6+ standards..",
@@ -308,4 +281,4 @@ import {
     },
   ];
   
-  export {  profiles, technologies, experiences, educations, achievements };
+  export {  technologies, experiences, educations, achievements };
